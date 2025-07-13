@@ -47,7 +47,7 @@
 ---
 
 <p align="center">
-  <em>Thanks for visiting! Stay tuned for more 😊</em><br/>
+  <em>Thanks for visiting! Stay tuned!!😊</em><br/>
   <img src="https://media1.tenor.com/m/nIcYvlwwzJcAAAAC/gojo-gojo-satoru.gif" alt="Thank you gif" width="200"/>
 </p>
 
