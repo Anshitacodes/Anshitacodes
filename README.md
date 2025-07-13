@@ -22,7 +22,7 @@
   </tr>
 </table>
 
-- 🌱 I’m currently learning **Advanced data science techniques**
+- 🛠️ I’m currently learning **Advanced data science techniques**
 
 
 - 👯 I’m looking to collaborate on **Web development with JavaScript, HTML, and CSS**
