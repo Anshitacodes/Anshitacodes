@@ -25,6 +25,7 @@
 - 👯 I’m looking to collaborate on **Web development with JavaScript, HTML, and CSS**
 
 - 🤝 I’m looking for help with **Debugging complex code**
+- - 🔭 I’m currently working on **Student Performance Analysis**
 
 - 💬 Ask me about **Data analysis and visualization**
 
