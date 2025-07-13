@@ -14,13 +14,16 @@
 
 - 👯 I’m looking to collaborate on **Web development with JavaScript, HTML, and CSS**
 - 🤝 I’m looking for help with **Debugging complex code**
-- <table>
+
+<table>
   <tr>
     <td>🌱 Currently pretending to know everything — still learning, promise!</td>
     <td><img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExb201anJya3RxMmR4bWVsazl4MndyMmNycTBuN3VrNXk4YjY2N3F3YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" alt="coding anime gif" width="150"/></td>
   </tr>
 </table>
+
 - 🌱 I’m currently learning **Advanced data science techniques**
+
 
 - 👯 I’m looking to collaborate on **Web development with JavaScript, HTML, and CSS**
 
