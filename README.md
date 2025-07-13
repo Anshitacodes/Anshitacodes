@@ -48,7 +48,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anshitacodes&show_icons=true&locale=en&layout=compact" alt="anshitacodes" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anshitacodes&show_icons=true&locale=en" alt="anshitacodes" /></p>
----
+
 
 <p align="center">
   <em>Thanks for visiting! Stay tuned!!😊</em><br/>
