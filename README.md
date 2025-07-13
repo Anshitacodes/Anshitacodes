@@ -10,7 +10,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anshitacodes&label=Profile%20views&color=0e75b6&style=flat" alt="anshitacodes" /> </p>
 
-- 🔭 I’m currently working on **Student Performance Analysis**
+- 🔭 I’m currently working on **Student Performance Analysis & coding**
+<p align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExb201anJya3RxMmR4bWVsazl4MndyMmNycTBuN3VrNXk4YjY2N3F3YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" width="300" />
+</p>
 
 - 🌱 I’m currently learning **Advanced data science techniques**
 
