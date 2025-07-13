@@ -3,10 +3,10 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="center">
-  <img src="https://media.tenor.com/KUXIWC9D5_UAAAAi/my-hero-academia-boku-no-hero-academia.gif" alt="anime banging head" width="300"/>
+  <img src="https://media.tenor.com/KUXIWC9D5_UAAAAi/my-hero-academia-boku-no-hero-academia.gif" alt="anime banging head" width="250"/>
 </p>
 
-<p align="center"><em>"Me vs bugs at 2AM 😅"</em></p>
+<p align="center"><em>Me vs bugs at 2AM</em></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anshitacodes&label=Profile%20views&color=0e75b6&style=flat" alt="anshitacodes" /> </p>
 
