@@ -1,5 +1,12 @@
+
 <h1 align="center">Hi 👋, I'm Anshita</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+
+<p align="center">
+  <img src="https://media.tenor.com/KUXIWC9D5_UAAAAi/my-hero-academia-boku-no-hero-academia.gif" alt="anime banging head" width="300"/>
+</p>
+
+<p align="center"><em>"Me vs bugs at 2AM 😅"</em></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anshitacodes&label=Profile%20views&color=0e75b6&style=flat" alt="anshitacodes" /> </p>
 
@@ -29,9 +36,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anshitacodes&show_icons=true&locale=en&layout=compact" alt="anshitacodes" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anshitacodes&show_icons=true&locale=en" alt="anshitacodes" /></p>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-</picture>
 
